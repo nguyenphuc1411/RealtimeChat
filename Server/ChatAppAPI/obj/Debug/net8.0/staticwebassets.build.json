@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "RFmO8C8wJNG3oSkRPQq0B/ERT5Sd8KOIGARYAsKOmPM=",
+  "Source": "ChatAppAPI",
+  "BasePath": "_content/ChatAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatAppAPI\\wwwroot",
+      "Source": "ChatAppAPI",
+      "ContentRoot": "D:\\HocTap\\ChatApp\\Server\\ChatAppAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\HocTap\\ChatApp\\Server\\ChatAppAPI\\wwwroot\\Images\\20240705211456667_avatar1.jpg",
+      "SourceId": "ChatAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HocTap\\ChatApp\\Server\\ChatAppAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppAPI",
+      "RelativePath": "Images/20240705211456667_avatar1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\20240705211456667_avatar1.jpg"
+    },
+    {
+      "Identity": "D:\\HocTap\\ChatApp\\Server\\ChatAppAPI\\wwwroot\\Images\\20240705212014959_avatar2.jpg",
+      "SourceId": "ChatAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HocTap\\ChatApp\\Server\\ChatAppAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppAPI",
+      "RelativePath": "Images/20240705212014959_avatar2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\20240705212014959_avatar2.jpg"
+    }
+  ]
+}

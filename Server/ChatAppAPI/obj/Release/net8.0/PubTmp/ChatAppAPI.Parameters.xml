@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="thanhphuc-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="ChatAppAPI.Data.Context.AppDbContext" description="" value="Data Source=SQL8004.site4now.net;Initial Catalog=db_aa9d54_chapp;User Id=db_aa9d54_chapp_admin;Password=phuc.1411" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\ChatAppAPI\.Data\.Context\.AppDbContext\.sql$" />
+  </parameter>
+</parameters>

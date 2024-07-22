@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\wwwroot\\Images\\20240705211456667_avatar1.jpg",
+      "PackagePath": "staticwebassets\\Images\\20240705211456667_avatar1.jpg"
+    },
+    {
+      "Id": "D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\wwwroot\\Images\\20240705212014959_avatar2.jpg",
+      "PackagePath": "staticwebassets\\Images\\20240705212014959_avatar2.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ChatAppAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ChatAppAPI.props",
+      "PackagePath": "build\\ChatAppAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatAppAPI.props",
+      "PackagePath": "buildMultiTargeting\\ChatAppAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatAppAPI.props",
+      "PackagePath": "buildTransitive\\ChatAppAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

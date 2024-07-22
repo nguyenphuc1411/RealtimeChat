@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Q70kb4JSjfcu8nyFrchv0/gH2dU7Luo4ZkrgCMq6FKQ=",
+  "Source": "ChatAppAPI",
+  "BasePath": "_content/ChatAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatAppAPI\\wwwroot",
+      "Source": "ChatAppAPI",
+      "ContentRoot": "D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\wwwroot\\Images\\20240705211456667_avatar1.jpg",
+      "SourceId": "ChatAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppAPI",
+      "RelativePath": "Images/20240705211456667_avatar1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\20240705211456667_avatar1.jpg"
+    },
+    {
+      "Identity": "D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\wwwroot\\Images\\20240705212014959_avatar2.jpg",
+      "SourceId": "ChatAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HocTap\\ChatApp\\ChatAppAPI\\ChatAppAPI\\wwwroot\\",
+      "BasePath": "_content/ChatAppAPI",
+      "RelativePath": "Images/20240705212014959_avatar2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\20240705212014959_avatar2.jpg"
+    }
+  ]
+}
